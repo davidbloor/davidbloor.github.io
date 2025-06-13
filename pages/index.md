@@ -3,4 +3,4 @@ layout: default
 permalink: /
 ---
 
-{% include landing.html %}
+<div><h1>David Bloor</h1></div>
